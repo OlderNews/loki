@@ -10,10 +10,10 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 
 ## Development resources
 
-- Web: [loki.network](https://loki.network)
-- Telegram: [t.me/LokiCommunity](https://t.me/LokiCommunity)
-- Mail: [team@loki.network](mailto:team@loki.network)
-- GitHub: [https://github.com/loki-project/loki](https://github.com/loki-project/loki)
+- Web: [Oxen.io](https://oxen.io)
+- Telegram: [t.me/Oxen_Community](https://t.me/Oxen_Community)
+- Mail: [team@oxen.io](mailto:team@oxen.io)
+- GitHub: [https://github.com/oxen-io](https://github.com/oxen-io)
 - Discord: [https://discord.gg/67GXfD6](https://discord.gg/67GXfD6)
 
 ## Vulnerability disclosure
